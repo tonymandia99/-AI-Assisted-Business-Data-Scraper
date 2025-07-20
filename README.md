@@ -92,7 +92,7 @@ python3 superpages_scraper.py
 This project is for educational purposes only. Respect robots.txt and website terms of use. Always rate-limit requests and avoid scraping sensitive or private data.
 
 📄 License
-MIT License © 2025 Your Name
+MIT License © 2025 tonymandia99
 
 🤝 Credits
 Built with AI assistance from ChatGPT and deployed on infrastructure by Contabo.
